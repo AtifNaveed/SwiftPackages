@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SPMHelloWorld",
+        "repositoryURL": "git@github.com:AtifNaveed/SPMHelloWorld.git",
+        "state": {
+          "branch": null,
+          "revision": "c7e4d3a809d84ab47cfd7d55540b82b5e77c51f5",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
